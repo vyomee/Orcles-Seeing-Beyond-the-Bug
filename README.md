@@ -1,6 +1,6 @@
 # Odoo Hackathon 2025 
-Team name: Orcles-Seeing Beyond the Bug
-Problem statement: 3. ReWear – Community Clothing Exchange
+# Team name: Orcles-Seeing Beyond the Bug
+# Problem statement: 3. ReWear – Community Clothing Exchange
 # ReWear - Community Clothing Exchange Platform
 
 A sustainable fashion platform that enables users to exchange unused clothing through direct swaps or a point-based redemption system, promoting textile waste reduction and encouraging garment reuse.
